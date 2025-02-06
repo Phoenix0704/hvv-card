@@ -191,7 +191,7 @@ class HvvCard extends LitElement {
              color: #e2001a;
         }
 
-        span.S, span.A{
+        span.S {
             background-color: #009252;
             border-radius: 999px;
         }
@@ -263,6 +263,9 @@ class HvvCard extends LitElement {
 
         span.S31 {
             background-color: #622181;
+        }
+        span.A {
+            background-color: #ff9027;
         }
       `;
     }
