@@ -191,7 +191,7 @@ class HvvCard extends LitElement {
              color: #e2001a;
         }
 
-        span.S {
+        span.S ,span.A {
             background-color: #009252;
             border-radius: 999px;
         }
